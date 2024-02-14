@@ -9,3 +9,6 @@ HTTP 메서드 GET vs POST
 1. SQL - JOIN
 2. MVC패턴, MVVM
 3. 객체지향 프로그래밍
+
+### 참고자료
+https://dev-coco.tistory.com/60
