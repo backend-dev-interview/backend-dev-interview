@@ -3,10 +3,10 @@
 월,수 오후 12시
 
 ## Contributor
-#### 심현덕 [https://github.com/Thedum2](https://github.com/tlagusejr)
-#### 이성수 [https://github.com/conotation](https://github.com/tjdtn123)
-#### 전승현 [https://github.com/jgy2808](https://github.com/JasonYesBro)
-#### 하동우 [https://github.com/Praesentia-YKM](https://github.com/orgs/backend-dev-interview/people/HAPALPAL)
+#### 심현덕 [https://github.com/tlagusejr](https://github.com/tlagusejr)
+#### 이성수 [https://github.com/tjdtn123](https://github.com/tjdtn123)
+#### 전승현 [https://github.com/JasonYesBro](https://github.com/JasonYesBro)
+#### 하동우 [https://github.com/HAPALPAL](https://github.com/HAPALPAL)
 
 ## 진행방식
 1. 전주에 선정된 주제를 각자 마크다운 문서로 정리해서 모두 발표
